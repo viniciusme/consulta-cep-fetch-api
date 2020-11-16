@@ -1,0 +1,18 @@
+1 - Criar uma pasta chamada consulta-cep-fetch-api
+mkdir consulta-cep-fetch-api
+
+2 - Entrar na pasta consulta-cep-fetch-api, e inciar um repositorio npm
+npm init -y
+
+2 - Instalar o Bootstrap
+npm install bootstrap --save
+
+3 - Criar Arquivo index.html
+touch index.html
+
+4 - Criar pasta src
+mkdir src
+
+5 - Criar uma pasta chamad js dentro da pasta src
+mkdir js
+

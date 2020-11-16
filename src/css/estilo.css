@@ -1,0 +1,56 @@
+/* =========================================================================
+
+Template Name: Consulta CEP
+Description: Consulta CEP Fetch API
+Version: 0.0.1
+Author: Vinicius Mendes
+Author URL: http://www.itmob.com.br
+Autor E-mail: vinicius@itmob.com.br
+
+============================================================================ */
+
+
+/* =============================================================================
+   1. Início das Configurações de style do Arquivo (index.html)
+============================================================================= */
+/* Formulário
+============================================================================= */
+
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;500;600;700;800;900&display=swap');
+
+*{
+
+    margin: 0;
+    padding: 0;
+
+}
+
+.title {
+
+    font-family: 'Montserrat', sans-serif;
+    font-size: 40px;
+    font-weight: 800;
+    text-transform: uppercase;
+    margin-top: 50px;
+    margin-bottom: 25px;
+
+}
+
+label {
+
+    font-family: 'Montserrat', sans-serif;
+    font-size: 12px;
+    font-weight: 600;
+    text-transform: uppercase;
+
+}
+
+.small {
+
+    font-family: 'Montserrat', sans-serif;
+    font-size: 10px;
+    font-weight: 600;
+    text-transform: uppercase;
+    color: #666;
+
+}
